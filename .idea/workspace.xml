@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7713c74-6854-45ad-9d8b-501387afe7b3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/装饰者模式/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/单例模式/恶汉方式/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/单例模式/懒汉方式-加锁/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/单例模式/懒汉方式-加锁升级版/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/单例模式/懒汉方式/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/责任链模式/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +41,16 @@
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Go Build.go build main.go (1)">
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go-design-mode" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/责任链模式/main.go" />
+      <package value="go-design-mode" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go-design-mode" />
       <working_directory value="$PROJECT_DIR$" />
@@ -48,6 +62,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build main.go (1)" />
         <item itemvalue="Go Build.go build main.go" />
       </list>
     </recent_temporary>
