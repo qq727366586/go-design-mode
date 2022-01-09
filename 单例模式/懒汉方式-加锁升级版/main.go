@@ -37,7 +37,7 @@ func NewSingleton2() *singleton {
 	return ins
 }
 
-//todo 优点,缺点 有待了解........
+//理论与上面第一个升级版 相差无几
 
 /**
 原文链接：https://www.cnblogs.com/stone94/p/10409669.html
