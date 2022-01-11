@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7713c74-6854-45ad-9d8b-501387afe7b3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/工厂模式/抽象工厂模式/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/工厂模式/简单工厂模式/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/单例模式/懒汉方式-加锁升级版/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/单例模式/懒汉方式-加锁升级版/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
